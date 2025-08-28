@@ -28,7 +28,7 @@ enum I18nKey {
 	systemMode = "systemMode",
 
 	more = "more",
-
+	copyright = "copyright",
 	author = "author",
 	publishedAt = "publishedAt",
 	license = "license",
