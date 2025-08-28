@@ -1,5 +1,32 @@
 @tailwind components;
-
+.wl-emoji{
+    height: 3em!important;
+}
+.wl-reaction-img{
+    width: 4em!important;
+    height: 4em!important;
+}
+* {
+  font-family: 'Noto Serif SC', serif;
+}
+#com{
+    .wl-count,.wl-reaction-title,.wl-editor,.wl-input{
+        color: var(--primary);
+    }
+    .wl-content{
+        div{
+            p{
+                color: #797979;
+            }
+        }
+    }
+}
+.wl-editor:focus, .wl-input:focus,.wl-addr,.wl-panel{
+    background-color: var(--page-bg)!important;
+}
+.wl-card .wl-meta>span{
+    background: var(--page-bg)!important;
+}
 @layer components {
     .card-base {
         @apply rounded-[var(--radius-large)] overflow-hidden bg-[var(--card-bg)] transition;

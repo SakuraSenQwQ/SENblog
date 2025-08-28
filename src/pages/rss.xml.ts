@@ -22,7 +22,7 @@ export async function GET(context: APIContext) {
 	return rss({
 		title: siteConfig.title,
 		description: siteConfig.subtitle || "No description",
-		site: context.site ?? "https://fuwari.vercel.app",
+		site: context.site ?? "https://blog.sakurasen.cn/",
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
@@ -31,7 +31,7 @@ export async function GET(context: APIContext) {
 				title: post.data.title,
 				pubDate: post.data.published,
 				description: post.data.description || "",
-				link: url(`/posts/${post.slug}/`),
+				link: url(`/post/${post.slug}/`),
 				content: sanitizeHtml(parser.render(cleanedContent), {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				}),
