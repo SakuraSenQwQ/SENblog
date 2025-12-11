@@ -135,32 +135,11 @@ const jsonLd = {
     </div>
 <div id="com"></div>
     <script type="module">
-  import { init } from 'https://sakurasen.cn/cdn/waline/waline.js';
+  import { init } from 'https://sakurasen.cn/js/waline.js';
 
   init({
   el: '#com',
-  serverURL:'https://sakurasen.cn/waline/',
-  reaction:[
-    "https://sakurasen.cn/imgs/emoji/goodjob.png",
-    "https://sakurasen.cn/imgs/emoji/hp.png",
-    "https://sakurasen.cn/imgs/emoji/nb.png",
-    "https://sakurasen.cn/imgs/emoji/wdf.png",
-    "https://sakurasen.cn/imgs/emoji/pu.png",
-  ],
-  emoji: [
-    "//sakurasen.cn/cdn/emoji/2233",
-    "//sakurasen.cn/cdn/emoji/arknights_2024",
-    "//sakurasen.cn/cdn/emoji/bocchi",
-    "//sakurasen.cn/cdn/emoji/chaotian",
-    "//sakurasen.cn/cdn/emoji/diana_2",
-    "//sakurasen.cn/cdn/emoji/diana_eat",
-    "//sakurasen.cn/cdn/emoji/epiao",
-    "//sakurasen.cn/cdn/emoji/luotianyi",
-    "//sakurasen.cn/cdn/emoji/luotianyi_8th",
-    "//sakurasen.cn/cdn/emoji/miku_13th",
-    "//sakurasen.cn/cdn/emoji/quyin",
-    "//sakurasen.cn/cdn/emoji/senren",
-  ],
+  serverURL:'https://api.sakurasen.cn/',
   search:false,
   imageUploader:false,
   requiredMeta:['nick', 'mail'],
