@@ -11,16 +11,19 @@ function getDate() {
 
   return `${year}-${month}-${day}`
 }
-
-const args = process.argv.slice(2)
-
+function GetD(){
+  const d = Date.now()
+  return d
+}
+// const args = process.argv.slice(2)
+const args = GetD() + '/index.md'
 if (args.length === 0) {
   console.error(`Error: No filename argument provided
 Usage: npm run new-post -- <filename>`)
   process.exit(1) // Terminate the script and return error code 1
 }
 
-let fileName = args[0]
+let fileName = args
 
 // Add .md extension if not present
 const fileExtensionRegex = /\.(md|mdx)$/i
