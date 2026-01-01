@@ -4,25 +4,14 @@
 
 https://sakurasen.cn/
 
-
-# 挖的坑
-
-## 网站
-
-- ~~友情链接~~ 已完成（[https://sakurasen.cn/friends](https://sakurasen.cn/friends))
-
-## 游戏
-
-- GTNH整合包（可能要到下一个暑假了
+但是，为什么呢。
 # 使用素材
 除文章外所有使用的素材出处
 ## 头像
-[QuAn\_ - pixiv](https://www.pixiv.net/users/6657532)
+[CORE - pixiv](https://www.pixiv.net/users/11211325)
 
 这位老师画的好喜欢
 ## 背景
-[#明日方舟 画了阿米娅和罗德岛 - 法师来自未来的插画 - pixiv](https://www.pixiv.net/artworks/124383634)
+[# 魔王兔 - 悲伤就此斩断，欢乐永远停留，死亡也被驱逐，悻悻地从每篇故事中离开。](https://www.pixiv.net/artworks/138743845)
 ## 主题
 [GitHub - saicaca/fuwari: ✨A static blog template built with Astro.](https://github.com/saicaca/fuwari)
-## 流萤LIVE2D
-[流萤前瞻小人，今日进度！](https://www.bilibili.com/video/BV1kJ4m1g7fs/?share_source=copy_web&vd_source=722c59ae589c4dd7c2cc954ecad0ae89)
