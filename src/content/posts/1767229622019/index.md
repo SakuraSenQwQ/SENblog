@@ -3,8 +3,9 @@ title: "2026"
 published: 2026-01-01
 description: 新的一年，真好^^
 image: ""
-tags: []
-category: ""
+tags:
+  - 日常
+category: 我思
 draft: false
 lang: ""
 ---
