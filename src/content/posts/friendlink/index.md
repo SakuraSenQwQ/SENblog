@@ -24,9 +24,9 @@ lang: zh-CN
 请先将我站添加至贵站
 :::
 
-- 叁睦の博客
-- https://blog.sakurasen.cn
-- https://sakurasen.cn/icon
+- 叁睦のBlog
+- https://blog.3mua.cn
+- https://3mua.cn/imgs/avat.png
 - 无限进步
 
 感谢您的配合！
