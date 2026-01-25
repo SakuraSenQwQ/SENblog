@@ -2,8 +2,9 @@
 title: APEX 传家宝如何购买便宜
 published: 2023-06-15
 image: 20230615052433image414.png
-tags: [APEX,充值]
-category: "我思"
+tags:
+  - APEX
+category: 我思
 ---
 ### 前言
 由于我是地平线玩家，最近有爆料称地平线传家宝将在21号上架，所以我就琢磨了一下怎么充值最划算！

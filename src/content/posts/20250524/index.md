@@ -1,9 +1,9 @@
 ---
 title: 进入新系统，我要干什么？
 published: 2025-06-04
-description: "好水的文章。。算是笔记了"
-tags: [重装系统]
-category: "我得"
+description: 好水的文章。。算是笔记了
+tags:
+category: 我得
 ---
 ## 开头
 

@@ -2,8 +2,9 @@
 title: PVE虚拟机UEFI启动时跳转到系统安装界面
 published: 2024-04-19
 image: 20250507022533.jpg
-tags: [PVE,虚拟化,UEFI]
-category: "我思"
+tags:
+  - PVE
+category: 我思
 ---
 封面来源： [#背景 空へ - 岡虎次郎/Oka Kojiro的插画 - pixiv](https://www.pixiv.net/artworks/102115356)
 ### 复现

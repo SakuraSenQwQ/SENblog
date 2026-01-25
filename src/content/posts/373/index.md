@@ -2,8 +2,9 @@
 title: 警惕大残陷阱，如何在APEX中实时查看队友伤害
 published: 2024-04-14
 image: 20230812110138apex-legends-keyart457.jpg
-tags: [APEX,插件,Blitz]
-category: "我得"
+tags:
+  - APEX
+category: 我得
 ---
 ### 前言
 

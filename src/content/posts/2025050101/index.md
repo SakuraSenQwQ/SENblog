@@ -1,10 +1,11 @@
 ---
 title: 用上预制证书！不再每次手动申请！
 published: 2025-05-01
-description: "啊我草自动化证书怎么那么简单，那我每次手动配置算什么？"
+description: 啊我草自动化证书怎么那么简单，那我每次手动配置算什么？
 image: bg.png
-tags: [自动化,SSL证书,Certd]
-category: "我得"
+tags:
+  - 资源分享
+category: 我得
 ---
 ## SSL证书怎么那么坏
 

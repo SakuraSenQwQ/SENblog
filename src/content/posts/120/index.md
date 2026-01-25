@@ -2,8 +2,9 @@
 title: Debian开机挂载磁盘
 published: 2023-01-31
 image: 2023013100221665735974_p0218.png
-tags: [服务器,Linux,Debian]
-category: "我得"
+tags:
+  - Linux
+category: 我得
 ---
 封面来源：[#オリジナル 寒空 - みふる的插画 - pixiv](https://www.pixiv.net/artworks/65735974)
 ### 前言

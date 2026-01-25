@@ -1,9 +1,10 @@
 ---
 title: 使用JS获取Hugo博客最新文章
 published: 2025-06-04
-description: "使用JS获取页面最新文章"
-tags: [网页开发,web]
-category: "我思"
+description: 使用JS获取页面最新文章
+tags:
+  - 前端开发
+category: 我思
 ---
 ## 前情提要
 

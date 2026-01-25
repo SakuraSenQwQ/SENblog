@@ -2,8 +2,9 @@
 title: 南京之行
 published: 2024-08-24
 image: IMG_20240822_180814.jpg
-tags: [旅行笔记]
-category: "我见"
+tags:
+  - 日常
+category: 我见
 ---
 ## 开始前
 

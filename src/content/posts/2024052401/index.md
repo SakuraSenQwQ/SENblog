@@ -2,8 +2,9 @@
 title: 使用Umami来记录您的网站访问数据
 published: 2024-05-24
 image: updata20240524015206.png
-tags: [umami,教程,下载,安装]
-category: "我得"
+tags:
+  - 资源分享
+category: 我得
 ---
 # 使用Umami来记录您的网站访问数据
 

@@ -1,10 +1,11 @@
 ---
 title: Pr导入flac音频文件插件
 published: 2024-04-09
-description: "Pr原生是不支持Flac文件导入的，有了此插件可以导入flac音频文件至您的pr。"
+description: Pr原生是不支持Flac文件导入的，有了此插件可以导入flac音频文件至您的pr。
 image: 129795806_p0.jpg
-tags: [Pr,Adobe,Premiere,Pro,插件]
-category: "我得"
+tags:
+  - Pr
+category: 我得
 ---
 封面来源：[#イラスト To Where Our Blue is - Android/アンドロイド的插画 - pixiv](https://www.pixiv.net/artworks/129795806)
 

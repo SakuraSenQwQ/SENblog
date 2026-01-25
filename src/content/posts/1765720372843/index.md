@@ -3,7 +3,8 @@ title: 回归！
 published: 2025-12-14
 description: 好久不见！
 image: ""
-tags: []
+tags:
+  - 日常
 category: 我思
 draft: false
 lang: zh-CN

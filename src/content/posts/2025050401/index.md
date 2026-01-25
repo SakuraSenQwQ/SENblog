@@ -2,10 +2,11 @@
 title: 如何把我的博客变成你的博客
 published: 2025-05-04
 updated: 2025-05-06
-description: "从零开始的博客构建"
+description: 从零开始的博客构建
 image: 98841678_p0.png
-tags: [美化,教程]
-category: "我得"
+tags:
+  - 资源分享
+category: 我得
 ---
 封面来源： [#オリジナル 慵懒 - XilmO@夕末的插画 - pixiv](https://www.pixiv.net/artworks/98841678)
 

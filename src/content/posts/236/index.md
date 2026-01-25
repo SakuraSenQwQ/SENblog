@@ -2,8 +2,9 @@
 title: 《魔女的夜宴》补丁下载
 published: 2023-07-21
 image: 20230721194945slider_pic08367.jpg
-tags: [GalGame,魔女的夜宴,补丁]
-category: "我得"
+tags:
+  - 补丁
+category: 我得
 ---
 ### 下载链接
 

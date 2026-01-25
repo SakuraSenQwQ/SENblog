@@ -2,8 +2,9 @@
 title: 千恋万花补丁
 published: 2023-01-27
 image: 20230127004002M9C6ZQKK13G9SU1W449.png
-tags: [补丁,GalGame,千恋万花]
-category: "我得"
+tags:
+  - 补丁
+category: 我得
 ---
 ### 下载链接
 

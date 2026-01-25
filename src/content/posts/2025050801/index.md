@@ -2,8 +2,9 @@
 title: 玩Arch遇到的一些问题
 published: 2025-05-08
 image: 111093721_p0_master1200.webp
-tags: [Arch]
-category: "我得"
+tags:
+  - Linux
+category: 我得
 ---
 *封面来源[#明日方舟 rkgkアーミヤちゃん - Cri4s的插画 - pixiv](https://www.pixiv.net/artworks/111093721)*
 ## ArchLinux

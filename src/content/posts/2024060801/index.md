@@ -2,8 +2,9 @@
 title: 从0开始，带你玩转TeamSpeak
 published: 2024-06-08
 image: updata封面.png
-tags: [TeamSpeak,服务器搭建,语音软件]
-category: "我思"
+tags:
+  - 资源分享
+category: 我思
 ---
 ## 叠甲
 

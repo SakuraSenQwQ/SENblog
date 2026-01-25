@@ -1,9 +1,10 @@
 ---
 title: 使用vue制作打字机效果
 published: 2025-06-04
-description: "应该......不是最优解吧"
-tags: [Vue,小工具]
-category: "我得"
+description: 应该......不是最优解吧
+tags:
+  - 前端开发
+category: 我得
 ---
 ## 效果展示
 ![](index-1748534965969.gif)

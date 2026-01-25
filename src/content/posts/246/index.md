@@ -2,8 +2,9 @@
 title: APEX自用画质cfg/启动项
 published: 2023-08-12
 image: 20230812110138apex-legends-keyart457.jpg
-tags: [APEX,CFG,画质文件]
-category: "我得"
+tags:
+  - APEX
+category: 我得
 ---
 ### 画质CFG:
 
