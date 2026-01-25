@@ -45,7 +45,7 @@ lang: zh-CN
 ![](3-image.png)
 
 2. 功能设备类
-![](Pasted%20image%2020260125145655.png)
+![](27-image.png)
 
 只有这两种类型能被其他玩家所看到。
 
