@@ -9,6 +9,10 @@ category: 我思
 draft: false
 lang: zh-CN
 ---
+:::warning
+本教程似乎已过期，但思路差不多，请根据官网自己逆向
+:::
+
 # 写在前面
 
 获取到openid与accesstoken后可以通过api获取三角洲行动的各种内容：
