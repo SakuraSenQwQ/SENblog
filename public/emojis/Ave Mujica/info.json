@@ -1,1 +1,28 @@
-{"name":"Ave Mujica","type":"png","prefix":"bmoji_","items":["[Ave Mujica_一次买够]","[Ave Mujica_诶]","[Ave Mujica_害怕]","[Ave Mujica_记得微笑]","[Ave Mujica_我要告你]","[Ave Mujica_挺好]","[Ave Mujica_不行]","[Ave Mujica_再等一下]","[Ave Mujica_比叉叉]","[Ave Mujica_震惊]","[Ave Mujica_开心]","[Ave Mujica_赌气]","[Ave Mujica_怎么突然]","[Ave Mujica_哼]","[Ave Mujica_睡觉]","[Ave Mujica_愉快]","[Ave Mujica_我有话说]","[Ave Mujica_委屈]","[Ave Mujica_美味]","[Ave Mujica_难道？]"]}
+{
+  "name": "Ave Mujica",
+  "type": "png",
+  "prefix": "bmoji_",
+  "icon": "[Ave Mujica_怎么突然]",
+  "items": [
+    "[Ave Mujica_一次买够]",
+    "[Ave Mujica_诶]",
+    "[Ave Mujica_害怕]",
+    "[Ave Mujica_记得微笑]",
+    "[Ave Mujica_我要告你]",
+    "[Ave Mujica_挺好]",
+    "[Ave Mujica_不行]",
+    "[Ave Mujica_再等一下]",
+    "[Ave Mujica_比叉叉]",
+    "[Ave Mujica_震惊]",
+    "[Ave Mujica_开心]",
+    "[Ave Mujica_赌气]",
+    "[Ave Mujica_怎么突然]",
+    "[Ave Mujica_哼]",
+    "[Ave Mujica_睡觉]",
+    "[Ave Mujica_愉快]",
+    "[Ave Mujica_我有话说]",
+    "[Ave Mujica_委屈]",
+    "[Ave Mujica_美味]",
+    "[Ave Mujica_难道？]"
+  ]
+}
