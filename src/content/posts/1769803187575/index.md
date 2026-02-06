@@ -3,10 +3,11 @@ title: 三角洲官网扫码登陆获取openid与access_token
 published: 2026-01-31
 description: 最新的教程，使用Go重写
 image: ""
-tags: []
-category: ""
+tags:
+  - 开发日记
+category: 我得
 draft: false
-lang: ""
+lang: zh-CN
 ---
 在之前，我写了一篇[教程](https://blog.sakurasen.cn/post/20250828025102/)，使用的语言为JS。
 
