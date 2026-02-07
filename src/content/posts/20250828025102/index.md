@@ -10,7 +10,7 @@ draft: false
 lang: zh-CN
 ---
 :::warning
-本教程似乎已过期，但思路差不多，请根据官网自己逆向
+本教程似乎已过期，请查看最新教程[https://blog.sakurasen.cn/post/1769803187575/](https://blog.sakurasen.cn/post/1769803187575/)
 :::
 
 # 写在前面
